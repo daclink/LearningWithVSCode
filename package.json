@@ -1,0 +1,29 @@
+{
+  "name": "learningwithvscode",
+  "version": "1.0.0",
+  "description": "A set of code resources to learn: VS Code and brush up on TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daclink/LearningWithVSCode.git"
+  },
+  "keywords": [
+    "typescript",
+    "unit",
+    "testing",
+    "please",
+    "hire",
+    "me",
+    "fun",
+    "times"
+  ],
+  "author": "Drew A. Clinkenbeard",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/daclink/LearningWithVSCode/issues"
+  },
+  "homepage": "https://github.com/daclink/LearningWithVSCode#readme"
+}
